@@ -45,7 +45,7 @@ client.$.waitForReady(Date.now() + 5000, async (e) => {
 
 The HTTP API endpoints are [documented here](https://docs.farcaster.xyz/reference/hubble/httpapi/httpapi).
 
-An OpenAPI spec is provided [here](./spec.yaml).
+An OpenAPI spec is provided [here](https://github.com/farcasterxyz/hub-monorepo/blob/main/packages/hub-nodejs/spec.yaml).
 
 ## Contributing
 
