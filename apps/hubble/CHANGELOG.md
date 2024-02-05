@@ -1,5 +1,20 @@
 # @farcaster/hubble
 
+## 1.9.7
+
+### Patch Changes
+
+- 618e6fad: feat: Add quicksync
+- 05ce5fe8: fix: Increase the sync trie cache to 64MB
+- fb011fc5: fix: Minor performance tweaks and logging
+
+## 1.9.6
+
+### Patch Changes
+
+- 577d698d: fix: Remove score penalty for duplicate gossip messages
+- 57ce2c66: fix: reduce sync freqency to help reduce hub load
+
 ## 1.9.5
 
 ### Patch Changes
